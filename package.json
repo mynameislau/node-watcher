@@ -1,0 +1,15 @@
+{
+  "name": "node-watcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node-watcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "yargs": "^8.0.1"
+  }
+}
