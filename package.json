@@ -5,7 +5,7 @@
   "main": "node-watcher.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "package-app": "pkg --out-dir ./dist/ ./node-watcher.js"
+    "package-app": "pkg --out-dir ./bin/ ./node-watcher.js"
   },
   "author": "",
   "license": "ISC",
